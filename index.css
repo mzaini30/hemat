@@ -1,0 +1,10 @@
+* {
+ word-wrap: break-word;
+}
+body {
+ padding-top: 70px;
+}
+.total {
+ margin-top: 0;
+ margin-bottom: 0;
+}
